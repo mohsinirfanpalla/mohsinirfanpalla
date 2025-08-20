@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohsinirfanpalla
+- 👋 Hi, I’m @mohsinirfan
 - 👀 I’m interested in ..computer.
 - 🌱 I’m currently learning ..programs.
 - 💞️ I’m looking to collaborate on ..any project.
